@@ -1,6 +1,6 @@
 {
   "name": "@zalxon/prism",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "components for syntax highlighting",
   "main": "dst/index.js",
   "module": "dst/index.esm.js",
@@ -23,7 +23,7 @@
   "files": [
     "dst"
   ],
-  "author": "freeman-lab",
+  "author": "halildogan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zalxon/prism/issues"
