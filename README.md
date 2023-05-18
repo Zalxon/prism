@@ -154,4 +154,4 @@ All the code in this repository is [MIT](https://choosealicense.com/licenses/mit
 
 ## about us
 
-Zalxon is a non-profit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. Find out more at [zalxon.com](https://zalxon.com/) or get in touch by [opening an issue](https://github.com/zalxon/prism/issues/new) or [sending us an email](mailto:hello@zalxon.com).
+Zalxon is a non-profit organization that uses data and science for since and healthcare action. We aim to improve the transparency and scientific integrity of since and healthcare solutions with open data and tools. Find out more at [zalxon.com](https://zalxon.com/) or get in touch by [opening an issue](https://github.com/zalxon/prism/issues/new) or [sending us an email](mailto:hello@zalxon.com).
